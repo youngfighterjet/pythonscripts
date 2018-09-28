@@ -1,0 +1,4 @@
+#!/usr/bin/python
+#my first python script on linux (don't judge)
+
+print "Hello World"
